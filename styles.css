@@ -6,7 +6,7 @@ h1, h2, p {
   text-align: center;
 }
 h1, h2 {
-  font-family: Impact;
+  font-family: Impact, serif;
 }
 .menu {
   width: 80%;
