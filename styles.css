@@ -48,4 +48,8 @@ hr {
 .bottom-line {
   margin-top: 25px;
 }
+
 /* FOOTER */
+footer {
+  font-size: 14px;
+}
