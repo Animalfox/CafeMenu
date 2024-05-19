@@ -50,6 +50,9 @@ hr {
 .bottom-line {
   margin-top: 25px;
 }
+.address {
+  margin-bottom: 5px;
+}
 
 /* FOOTER */
 footer {
