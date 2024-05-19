@@ -16,6 +16,9 @@ h1, h2 {
   margin-right: auto;
   padding: 20px;
 }
+.established {
+  font-style: italic;
+}
 .flavor, .dessert {
   text-align: left;
   width: 75%;
